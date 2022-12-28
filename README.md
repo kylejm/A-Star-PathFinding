@@ -21,3 +21,8 @@ Some changes were made to this program including
  - complete comment of algorithm and code
  - reconstructed main function
  - added print statement in terminal to check how many nodes it took to get from end to start
+ 
+ 
+
+https://user-images.githubusercontent.com/107011592/209744176-c4ac2032-726a-4a59-ad72-194e5585d5b4.mov
+
