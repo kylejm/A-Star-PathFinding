@@ -23,7 +23,9 @@ Some changes were made to this program including
  - added print statement in terminal to check how many nodes it took to get from end to start
  
 
-
+Controls:
+The first two nodes clicked will be the start and end nodes respectively. The nodes clicked after that will be the wall / barrier nodes. To clear
+the screen of placements click the 'c' on your keyboard. To start the simulation press the spacebar.
 
 
 https://user-images.githubusercontent.com/107011592/209744291-6aebb847-05bc-4bf9-b948-a31d59a03958.mov
