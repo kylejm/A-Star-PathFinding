@@ -22,7 +22,10 @@ Some changes were made to this program including
  - reconstructed main function
  - added print statement in terminal to check how many nodes it took to get from end to start
  
- 
 
-https://user-images.githubusercontent.com/107011592/209744176-c4ac2032-726a-4a59-ad72-194e5585d5b4.mov
 
+
+
+https://user-images.githubusercontent.com/107011592/209744291-6aebb847-05bc-4bf9-b948-a31d59a03958.mov
+
+<img width="1187" alt="Screen Shot 2022-12-27 at 5 45 45 PM" src="https://user-images.githubusercontent.com/107011592/209744408-4ee8d929-828c-4ad1-82ae-5c2f6073280b.png">
